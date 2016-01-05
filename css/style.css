@@ -1,0 +1,12 @@
+h1 {color:red}
+
+.sidebar {color:orange;
+          float:left;
+        height:400px;
+      margin-right: 20px;
+      padding-right: 20px;
+    background-color: blue}
+
+.sidebar img {
+  display: none;
+}
